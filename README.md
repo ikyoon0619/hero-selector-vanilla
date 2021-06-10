@@ -3,5 +3,5 @@
 
 [DEMO](https://sharp-bhaskara-8c7bec.netlify.app)
 
-## SCSS 리팩토링
-url(https://github.com/ikyoon0619/hero-selector-vanilla/tree/refactoring-scss)
+## SCSS 리팩토링 버전
+https://github.com/ikyoon0619/hero-selector-vanilla/tree/refactoring-scss
